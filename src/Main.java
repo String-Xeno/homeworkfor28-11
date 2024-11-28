@@ -1,22 +1,9 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
-        //THIS WAS THE HOMEWORK FOR THIS CLASS
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         Scanner input = new Scanner(System.in);
+        
         System.out.println("Enter 2 numbers");
         int num1 = input.nextInt();
         int num2 = input.nextInt();
